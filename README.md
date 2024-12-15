@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">Software Engineer based in India</h3>
 
-- 🔭 I’m currently working on [vChat](https://github.com/dev-vamsi/vChat)
+- 🔭 I’m currently working on [vComp](https://github.com/dev-vamsi/vComp)
 
 - 🌱 I’m currently learning **Angular, Spring Boot and Next.js**
 
