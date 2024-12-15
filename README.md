@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [vComp](https://github.com/dev-vamsi/vComp)
 
-- 🌱 I’m currently learning **Angular, Spring Boot and Next.js**
+- 🌱 I’m currently learning **DevOps & Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://dev-vamsi.vercel.app/](https://dev-vamsi.vercel.app/)
 
