@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 <h3 align="center">Software Engineer based in India</h3>
 
-- 🔭 I’m currently working on [vComp](https://github.com/dev-vamsi/vComp)
-
-- 🌱 I’m currently learning **DevOps & Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://dev-vamsi.vercel.app/](https://dev-vamsi.vercel.app/)
-
-- 💬 Ask me about **React.js, Node.js, Cypress, Java**
+- 🔭 Grinding Full stack & DevSecOps together
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
